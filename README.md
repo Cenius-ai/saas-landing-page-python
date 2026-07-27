@@ -47,7 +47,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-Python application, delivered as a complete, runnable project (19 files). Top-level layout: `assets/`. Setup details live in [`INSTALL.md`](INSTALL.md).
+Python application, delivered as a complete, runnable project (8 files). Top-level layout: `assets/`. Setup details live in [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
