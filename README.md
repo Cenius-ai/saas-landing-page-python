@@ -1,6 +1,7 @@
 # SaaS Landing Page — production-ready Python landing page starter
 
-**SaaS Landing Page** is a free, open-source landing page built with Python. Build a polished, single-page, static marketing landing site for a fictional SaaS product. Run it locally, deploy it as a self-hosted landing page, or [remix it on cenius.ai](https://cenius.ai/marketplace/p/saas-landing-page?ref=gh&utm_campaign=saas-landing-page-python) to make it your own — the whole application (code, design, seeded demo data) ships in this repository under the Apache-2.0 license.
+A Python landing page, open-source and ready to self-host: that's **SaaS Landing Page**. Build a polished, single-page, static marketing landing site for a fictional SaaS product. SaaS Landing Page ships complete — source, design assets, seed data — under the Apache-2.0 license; no cloud account needed. [Remix SaaS Landing Page on cenius.ai](https://cenius.ai/marketplace/p/saas-landing-page?ref=gh&utm_campaign=saas-landing-page-python) for a custom build.
+
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) ![Stack](https://img.shields.io/badge/Stack-Python-3b82f6) [![Built with cenius.ai](https://img.shields.io/badge/Built%20with-cenius.ai-8b5cf6)](https://cenius.ai)
 
@@ -14,15 +15,11 @@ _Local clone? See [Quick start](#quick-start) below. cenius.ai is the zero-setup
 
 ![SaaS Landing Page demo — landing page built with Python](.github/media/hero.gif)
 
-▶ **[Watch the full demo video](https://cenius.ai/marketplace/p/saas-landing-page?ref=gh&utm_campaign=saas-landing-page-python)** — the complete walkthrough, playing on the project's cenius.ai page · [MP4 file](.github/media/demo.mp4)
+▶ **[Full demo walkthrough](https://cenius.ai/marketplace/p/saas-landing-page?ref=gh&utm_campaign=saas-landing-page-python)** — watch it on the project page · [download MP4](.github/media/demo.mp4)
 
 ## Screenshots
 
 <img src=".github/media/shot-1.png" width="32%" alt="SaaS Landing Page landing page screenshot 1"/> <img src=".github/media/shot-2.png" width="32%" alt="SaaS Landing Page landing page screenshot 2"/> <img src=".github/media/shot-3.png" width="32%" alt="SaaS Landing Page landing page screenshot 3"/>
-
-## Quick start
-
-See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Usage guide
 
@@ -45,31 +42,35 @@ No backend or special actions are required.
 
 _Full guide: [`USAGE.md`](USAGE.md)_
 
+## Quick start
+
+See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
+
 ## Architecture
 
-Python application, delivered as a complete, runnable project (8 files). Top-level layout: `assets/`. Setup details live in [`INSTALL.md`](INSTALL.md).
+A self-contained Python project (8 files): top-level directories include `assets/`. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
 
 ## FAQ
 
 ### How do I run SaaS Landing Page on my own server?
 
-Everything you need ships in this repo: clone it, run `./install.sh` to install dependencies and seed demo data, then follow [`INSTALL.md`](INSTALL.md) to start it. No external services required.
+Pull the repo, run `./install.sh`, and you are up — the script installs packages and pre-seeds the database. [`INSTALL.md`](INSTALL.md) covers any platform-specific tweaks.
 
-### How do I make SaaS Landing Page my own brand?
+### How do I customise SaaS Landing Page's branding?
 
 Yes — and the easiest way is [remixing it on cenius.ai](https://cenius.ai/marketplace/p/saas-landing-page?ref=gh&utm_campaign=saas-landing-page-python): modifications made on the platform come with full rebrand and relicense rights over your derivative.
+
+### Can I build a business on SaaS Landing Page?
+
+Yes — Apache-2.0-licensed, so commercial use, modification, and distribution are all permitted. Read the full terms in [LICENSE](LICENSE).
+
+### Which framework or language does SaaS Landing Page use?
+
+SaaS Landing Page is a Python application — and this repository holds the complete, runnable source, not a stripped-down sample.
 
 ### Is there a no-code way to modify SaaS Landing Page?
 
 Open it on [cenius.ai](https://cenius.ai/marketplace/p/saas-landing-page?ref=gh&utm_campaign=saas-landing-page-python) and describe the changes you want in plain English — the platform modifies the app and gives you a new, downloadable build.
-
-### What is SaaS Landing Page built with?
-
-SaaS Landing Page is a Python application — and this repository holds the complete, runnable source, not a stripped-down sample.
-
-### Is SaaS Landing Page free for commercial use?
-
-Yes — it ships under the Apache-2.0 license, which permits commercial use, modification and redistribution. The full text is in [LICENSE](LICENSE).
 
 ## License & rebranding
 
